@@ -1,4 +1,4 @@
-# 📊 Taller Práctico: Fundamentos de SQL y Bases de Datos
+# 📊 Taller Práctico: Fundamentos de SQL y bases de datos
 
 ## 🎓 Sobre este Taller
 Este repositorio es una guía práctica diseñada para mis estudiantes en el **Instituto Movilis**. Aquí exploramos el ciclo de vida de los datos: desde la creación de estructuras robustas (DDL) hasta la manipulación precisa de información (DML).
